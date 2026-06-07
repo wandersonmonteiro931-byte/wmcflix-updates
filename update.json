@@ -1,7 +1,7 @@
 {
-  "versionCode": 64,
-  "versionName": "v64",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v64/app-debug.apk",
+  "versionCode": 65,
+  "versionName": "v65",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v65/app-debug.apk",
   "required": false,
   "message": "WMCFLIX v63: corrige download de atualização GitHub com redirecionamento manual e headers compatíveis com Android TV."
 }
