@@ -1,7 +1,7 @@
 {
-  "versionCode": 58,
-  "versionName": "v58",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v58/app-debug.apk",
+  "versionCode": 59,
+  "versionName": "v59",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v59/app-debug.apk",
   "required": false,
   "message": "WMCFLIX v58: tela de ativacao refeita, simples, fixa e sem animacoes."
 }
