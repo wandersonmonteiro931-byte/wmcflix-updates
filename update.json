@@ -1,8 +1,8 @@
 {
-  "versionCode": 74,
-  "versionName": "v74",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v74/app-debug.apk",
+  "versionCode": 76,
+  "versionName": "v76",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v76/app-debug.apk",
   "apkRawUrl": "https://raw.githubusercontent.com/wandersonmonteiro931-byte/wmcflix-updates/main/app-debug.apk",
   "required": false,
-  "message": "WMCFLIX v74: atualizador força leitura fresca do update.json sem precisar limpar dados do app."
+  "message": "WMCFLIX v76: organiza séries M3U por temporadas e episódios, mantendo mídia somente online."
 }
