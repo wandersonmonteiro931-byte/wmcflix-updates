@@ -1,8 +1,8 @@
 {
-  "versionCode": 70,
-  "versionName": "v70",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v70/app-debug.apk",
+  "versionCode": 71,
+  "versionName": "v71",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v71/app-debug.apk",
   "apkRawUrl": "https://raw.githubusercontent.com/wandersonmonteiro931-byte/wmcflix-updates/main/app-debug.apk",
   "required": false,
-  "message": "WMCFLIX v70: leitura do update.json pela API do GitHub para evitar cache antigo na TV."
+  "message": "WMCFLIX v71: M3U com limite rápido de 5 segundos por seção e cache após primeiro carregamento."
 }
