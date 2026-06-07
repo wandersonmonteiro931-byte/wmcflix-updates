@@ -1,7 +1,7 @@
 {
-  "versionCode": 53,
-  "versionName": "v53",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v53/app-debug.apk",
+  "versionCode": 54,
+  "versionName": "v54",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v54/app-debug.apk",
   "required": false,
-  "message": "WMCFLIX v53: arquitetura player/frontend, streaming direto sem downloads e suporte ampliado a formatos."
+  "message": "WMCFLIX v54: entrada obrigatória pelo painel Firebase, lista por cliente e streaming direto sem downloads."
 }
