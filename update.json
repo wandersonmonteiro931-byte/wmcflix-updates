@@ -1,8 +1,8 @@
 {
-  "versionCode": 76,
-  "versionName": "v76",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v76/app-debug.apk",
+  "versionCode": 78,
+  "versionName": "v78",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v78/app-debug.apk",
   "apkRawUrl": "https://raw.githubusercontent.com/wandersonmonteiro931-byte/wmcflix-updates/main/app-debug.apk",
   "required": false,
-  "message": "WMCFLIX v76: organiza séries M3U por temporadas e episódios, mantendo mídia somente online."
+  "message": "WMCFLIX v78: separação M3U confiável por /live/, /movie/, /series/ e categorias sem Navegar bagunçado."
 }
