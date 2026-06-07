@@ -1,7 +1,8 @@
 {
-  "versionCode": 68,
-  "versionName": "v68",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v67/app-debug.apk",
+  "versionCode": 70,
+  "versionName": "v70",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v70/app-debug.apk",
+  "apkRawUrl": "https://raw.githubusercontent.com/wandersonmonteiro931-byte/wmcflix-updates/main/app-debug.apk",
   "required": false,
-  "message": "WMCFLIX v67: corrige leitura de listas M3U grandes sem crash e mantém app apenas como player/frontend."
+  "message": "WMCFLIX v70: leitura do update.json pela API do GitHub para evitar cache antigo na TV."
 }
