@@ -1,7 +1,7 @@
 {
-  "versionCode": 60,
-  "versionName": "v60",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v60/app-debug.apk",
+  "versionCode": 61,
+  "versionName": "v61",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v61/app-debug.apk",
   "required": false,
-  "message": "WMCFLIX v60: Firebase configurado, login com atualizacao e foco fixo sem movimento."
+  "message": "WMCFLIX v61: corrige consulta Firebase HTTP 400 removendo parametro invalido no Firestore REST."
 }
