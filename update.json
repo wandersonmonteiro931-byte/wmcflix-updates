@@ -1,7 +1,7 @@
 {
-  "versionCode": 78,
-  "versionName": "v78",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v78/app-debug.apk",
+  "versionCode": 79,
+  "versionName": "v79",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v79/app-debug.apk",
   "apkRawUrl": "https://raw.githubusercontent.com/wandersonmonteiro931-byte/wmcflix-updates/main/app-debug.apk",
   "required": false,
   "message": "WMCFLIX v78: separação M3U confiável por /live/, /movie/, /series/ e categorias sem Navegar bagunçado."
