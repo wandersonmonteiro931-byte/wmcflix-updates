@@ -3,5 +3,5 @@
   "versionName": "v61",
   "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v61/app-debug.apk",
   "required": false,
-  "message": "WMCFLIX v61: corrige consulta Firebase HTTP 400 removendo parametro invalido no Firestore REST."
+  "message": "Nova atualização disponível para o WMCFLIX TV."
 }
