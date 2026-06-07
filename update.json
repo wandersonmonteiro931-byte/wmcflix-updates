@@ -1,7 +1,7 @@
 {
-  "versionCode": 57,
-  "versionName": "v57",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v57/app-debug.apk",
+  "versionCode": 58,
+  "versionName": "v58",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v58/app-debug.apk",
   "required": false,
-  "message": "WMCFLIX v57: corrige fechamento do teclado nativo na ativacao/login."
+  "message": "WMCFLIX v58: tela de ativacao refeita, simples, fixa e sem animacoes."
 }
