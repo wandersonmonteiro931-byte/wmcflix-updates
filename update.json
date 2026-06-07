@@ -1,8 +1,8 @@
 {
-  "versionCode": 79,
-  "versionName": "v79",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v79/app-debug.apk",
+  "versionCode": 81,
+  "versionName": "v81",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v81/app-debug.apk",
   "apkRawUrl": "https://raw.githubusercontent.com/wandersonmonteiro931-byte/wmcflix-updates/main/app-debug.apk",
   "required": false,
-  "message": "WMCFLIX v78: separação M3U confiável por /live/, /movie/, /series/ e categorias sem Navegar bagunçado."
+  "message": "WMCFLIX v81: leitura M3U sem limite de tempo, aguardando o necessário para carregar o catálogo de texto."
 }
