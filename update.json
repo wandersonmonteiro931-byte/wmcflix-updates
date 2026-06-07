@@ -1,7 +1,7 @@
 {
-  "versionCode": 54,
-  "versionName": "v54",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v54/app-debug.apk",
+  "versionCode": 56,
+  "versionName": "v56",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v56/app-debug.apk",
   "required": false,
-  "message": "WMCFLIX v54: entrada obrigatória pelo painel Firebase, lista por cliente e streaming direto sem downloads."
+  "message": "WMCFLIX v55: codigo de ativacao com foco corrigido e animacoes removidas."
 }
