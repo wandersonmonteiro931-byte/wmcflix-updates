@@ -1,8 +1,7 @@
 {
   "versionCode": 83,
   "versionName": "v83",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v81/app-debug.apk",
-  "apkRawUrl": "https://raw.githubusercontent.com/wandersonmonteiro931-byte/wmcflix-updates/main/app-debug.apk",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v83/app-debug.apk",
   "required": false,
-  "message": "WMCFLIX v81: leitura M3U sem limite de tempo, aguardando o necessário para carregar o catálogo de texto."
+  "message": "Nova atualização disponível para o WMCFLIX TV v83."
 }
