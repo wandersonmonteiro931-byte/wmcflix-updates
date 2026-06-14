@@ -1,7 +1,7 @@
 {
-  "versionCode": 100,
-  "versionName": "v100",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v100/app-debug.apk",
+  "versionCode": 101,
+  "versionName": "v101",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v101/app-debug.apk",
   "required": false,
-  "message": "Nova atualização disponível para o WMCFLIX TV v100."
+  "message": "Nova atualização disponível para o WMCFLIX TV v101."
 }
