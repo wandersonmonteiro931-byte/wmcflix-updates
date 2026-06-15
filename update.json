@@ -1,8 +1,8 @@
 {
-  "versionCode": 133,
-  "versionName": "v133",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v133/app-debug.apk",
+  "versionCode": 134,
+  "versionName": "v134",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v134/app-debug.apk",
   "activationApiUrl": "https://wmcflix-gateway.wandersonmonteiro931.workers.dev",
   "required": false,
-  "message": "Nova atualização disponível para o WMCFLIX TV v133."
+  "message": "Nova atualização disponível para o WMCFLIX TV v134."
 }
