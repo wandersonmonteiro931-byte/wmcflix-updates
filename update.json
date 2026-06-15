@@ -1,8 +1,8 @@
 {
-  "versionCode": 139,
-  "versionName": "v139",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v139/app-debug.apk",
+  "versionCode": 141,
+  "versionName": "v141",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v141/app-debug.apk",
   "required": false,
-  "message": "Nova atualização disponível para o WMCFLIX TV v139.",
+  "message": "Nova atualização disponível para o WMCFLIX TV v141.",
   "activationApiUrl": "https://wmcflix-gateway.wandersonmonteiro931.workers.dev"
 }
