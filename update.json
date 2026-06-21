@@ -1,8 +1,8 @@
 {
-  "versionCode": 150,
-  "versionName": "v150",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v150/app-debug.apk",
+  "versionCode": 151,
+  "versionName": "v151",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v151/app-debug.apk",
   "required": false,
-  "message": "Nova atualização disponível para o WMCFLIX TV v150.",
+  "message": "Nova atualização disponível para o WMCFLIX TV v151.",
   "activationApiUrl": "https://wmcflix-gateway.wandersonmonteiro931.workers.dev"
 }
