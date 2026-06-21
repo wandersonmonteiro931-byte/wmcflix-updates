@@ -1,8 +1,8 @@
 {
-  "versionCode": 164,
-  "versionName": "v164",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v164/app-debug.apk",
+  "versionCode": 165,
+  "versionName": "v165",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v165/app-debug.apk",
   "required": false,
-  "message": "Nova atualização disponível para o WMCPLAYER v164.",
+  "message": "Nova atualização disponível para o WMCPLAYER v165.",
   "activationApiUrl": "https://wmcflix-gateway.wandersonmonteiro931.workers.dev"
 }
