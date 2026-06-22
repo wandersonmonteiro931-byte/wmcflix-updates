@@ -1,8 +1,8 @@
 {
-  "versionCode": 176,
-  "versionName": "v176",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v176/app-debug.apk",
+  "versionCode": 177,
+  "versionName": "v177",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v177/app-debug.apk",
   "required": false,
-  "message": "Nova atualização disponível para o WMCPLAYER v176.",
+  "message": "Nova atualização disponível para o WMCPLAYER v177.",
   "activationApiUrl": "https://wmcflix-gateway.wandersonmonteiro931.workers.dev"
 }
