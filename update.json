@@ -1,8 +1,8 @@
 {
-  "versionCode": 264,
-  "versionName": "v264",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v264/app-debug.apk",
+  "versionCode": 269,
+  "versionName": "v269",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v269/app-debug.apk",
   "required": false,
-  "message": "Nova atualização disponível para o WMCPLAYER v264.",
+  "message": "Nova atualização disponível para o WMCPLAYER v269.",
   "activationApiUrl": "https://wmcflix-gateway.wandersonmonteiro931.workers.dev"
 }
