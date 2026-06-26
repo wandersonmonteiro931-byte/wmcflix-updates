@@ -1,8 +1,8 @@
 {
-  "versionCode": 254,
-  "versionName": "v254",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v254/app-debug.apk",
+  "versionCode": 259,
+  "versionName": "v259",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v259/app-debug.apk",
   "required": false,
-  "message": "Nova atualização disponível para o WMCPLAYER v254.",
+  "message": "Nova atualização disponível para o WMCPLAYER v259.",
   "activationApiUrl": "https://wmcflix-gateway.wandersonmonteiro931.workers.dev"
 }
