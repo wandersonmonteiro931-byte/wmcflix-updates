@@ -1,8 +1,8 @@
 {
-  "versionCode": 312,
-  "versionName": "v312",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v312/app-debug.apk",
+  "versionCode": 314,
+  "versionName": "v314",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v314/app-debug.apk",
   "required": false,
-  "message": "Nova atualização disponível para o WMCPLAYER v312.",
+  "message": "Nova atualização disponível para o WMCPLAYER v314.",
   "activationApiUrl": "https://wmcflix-gateway.wandersonmonteiro931.workers.dev"
 }
