@@ -1,8 +1,8 @@
 {
-  "versionCode": 333,
-  "versionName": "v333",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v333/app-debug.apk",
+  "versionCode": 338,
+  "versionName": "v338",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v338/app-debug.apk",
   "required": false,
-  "message": "Nova atualização disponível para o WMCPLAYER v333.",
+  "message": "Nova atualização disponível para o WMCPLAYER v338.",
   "activationApiUrl": "https://wmcflix-gateway.wandersonmonteiro931.workers.dev"
 }
