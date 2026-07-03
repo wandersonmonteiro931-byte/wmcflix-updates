@@ -1,8 +1,8 @@
 {
-  "versionCode": 380,
-  "versionName": "v380",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v380/app-debug.apk",
+  "versionCode": 381,
+  "versionName": "v381",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v381/app-debug.apk",
   "required": false,
-  "message": "Nova atualização disponível para o WMCPLAYER v380.",
+  "message": "Nova atualização disponível para o WMCPLAYER v381.",
   "activationApiUrl": "https://wmcplayer-api.wandersonmonteiro931.workers.dev"
 }
