@@ -1,8 +1,8 @@
 {
-  "versionCode": 383,
-  "versionName": "v383",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v383/app-debug.apk",
+  "versionCode": 418,
+  "versionName": "v418",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v418/app-debug.apk",
   "required": false,
-  "message": "Nova atualização disponível para o WMCPLAYER v383.",
+  "message": "Nova atualização disponível para o WMCPLAYER v418.",
   "activationApiUrl": "https://wmcplayer-api.wandersonmonteiro931.workers.dev"
 }
