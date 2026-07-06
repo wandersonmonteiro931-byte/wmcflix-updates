@@ -1,8 +1,8 @@
 {
-  "versionCode": 427,
-  "versionName": "v427",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v427/app-debug.apk",
+  "versionCode": 429,
+  "versionName": "v429",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v429/app-debug.apk",
   "required": false,
-  "message": "Nova atualização disponível para o WMCPLAYER v427.",
+  "message": "Nova atualização disponível para o WMCPLAYER v429.",
   "activationApiUrl": "https://wmcplayer-api.wandersonmonteiro931.workers.dev"
 }
