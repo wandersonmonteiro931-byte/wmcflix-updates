@@ -1,8 +1,8 @@
 {
-  "versionCode": 468,
-  "versionName": "v468",
-  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v468/app-debug.apk",
+  "versionCode": 478,
+  "versionName": "v478",
+  "apkUrl": "https://github.com/wandersonmonteiro931-byte/wmcflix-updates/releases/download/v478/app-debug.apk",
   "required": false,
-  "message": "Nova atualização disponível para o WMCPLAYER v468.",
+  "message": "Nova atualização disponível para o WMCPLAYER v478.",
   "activationApiUrl": "https://wmcplayer-api.wandersonmonteiro931.workers.dev"
 }
